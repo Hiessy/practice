@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c115cbf2-837d-4de8-8fa3-bd9e16b0a5ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dp6MDMjTrY8bXzDoFGbOLzv70f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ExerciseTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hiessy.exercise.ExerciseTester" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hiessy.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExerciseTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Algorithms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../untitled" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c115cbf2-837d-4de8-8fa3-bd9e16b0a5ae" name="Default Changelist" comment="" />
+      <created>1593109636710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593109636710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Inspections" timestamp="1593195728037">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="182" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1593195728037" />
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1593191586141">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1593191586141" />
+    <state x="676" y="233" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1593113085395">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="676" y="233" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593113085395" />
+    <state x="688" y="263" width="661" height="633" key="#xdebugger.evaluate" timestamp="1593197290228">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="688" y="263" width="661" height="633" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1593197290228" />
+    <state width="484" height="466" key="DebuggerActiveHint" timestamp="1593197027930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="484" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1593197027930" />
+    <state width="1876" height="346" key="GridCell.Tab.0.bottom" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.0.center" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.0.left" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.0.right" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.1.center" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.1.left" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state width="1876" height="346" key="GridCell.Tab.1.right" timestamp="1593293047820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593293047820" />
+    <state x="537" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593193383189">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="537" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050@0.0.1920.1050" timestamp="1593193383189" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1593109744554">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1593109744554" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tupleList[14]" />
+        <watch expression="tupleList[12]" />
+        <watch expression="tupleList[13]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
