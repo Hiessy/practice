@@ -16,6 +16,7 @@ public class BalancedString {
 
     /**
      * Returns true if the string has brackets in the correct order
+     *
      * @param input
      * @return
      */
@@ -41,6 +42,7 @@ public class BalancedString {
 
     /**
      * Returns false is the string has brackets in incorrect order
+     *
      * @param input
      * @return
      */

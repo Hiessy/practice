@@ -21,6 +21,7 @@ public class ArrayAnalyzer {
 
     /**
      * Returns true if a sum of two integers exist inside storedNumbers that add up to number
+     *
      * @param number
      * @param storedNumber
      * @return
